@@ -8,7 +8,7 @@ This repository contains the solution that I have proposed to the Continuous Con
 - **checkpoint_actor.pt:** Actor Model trained during the development of the project.
 - **checkpoint_critic.pt:** Critic Model trained during the development of the project.
 
-The code solves the Reacher (Version 2), which is described as (Taken from Project description): 
+This code solves the Reacher (Second version), which is described as (Taken from Project description): 
 
 "a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
 
